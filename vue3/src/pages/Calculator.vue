@@ -2,7 +2,7 @@
   <section class="flex w-full">
     <div class="m-auto">
       <div>
-        <h1 class="text-3xl text-center">Calculator</h1>
+        <h1 class="text-3xl text-center">CALCULATOR</h1>
         <small>You can fully use keyboard to calculate</small>
       </div>
       <p
